@@ -1,0 +1,50 @@
+.pie-chart {
+  width: 704px;
+  height: 100%;
+}
+
+.section-activities {
+  width: 1089px;
+  height: 490px;
+}
+
+.section-activities-content {
+  display: flex;
+  justify-content: space-evenly;
+  align-self: center;
+  background-color: #f6f6f6;
+  height: 500px;
+  border: 2px solid #d7d7d7;
+  border-radius: 5px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-label,
+.card-value {
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 5px;
+  color: grey;
+}
+
+.card-label {
+  width: 110px;
+}
+.card-value {
+  width: 100px;
+}
+
+.card-value {
+  color: red;
+}

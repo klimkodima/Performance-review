@@ -1,0 +1,63 @@
+{
+  "activitiesPercentage": {
+    "Title": "Проценты активностей",
+    "Total time": "Всего времени"
+  },
+  "criteria": {
+    "Average Performance": "Средняя производительность",
+    "tasks/h": " задач/ч",
+    "task/h": " задача/ч",
+    "Support/Audits Hours": "Часы поддержки/проверки",
+    "h": "ч",
+    "Average Validity": "Средняя достоверность",
+    "Hours Correspondence": "Часы работы",
+    "goodCorrespondenceText": "Статус вашей переписки по часам Хороший - 100% часов одобрено для начисления баллов.",
+    "normalCorrespondenceText": "Статус вашей переписки по часам Нормальный - 80% часов одобрены для начисления баллов.",
+    "badCorrespondenceText": "Статус вашей переписки по часам Нормальный - 80% часов одобрены для начисления баллов."
+  },
+  "filter": {
+    "FILTERS": "ФИЛЬТРЫ",
+    "CLEAR ALL": "ОЧИСТИТЬ",
+    "TEAM": "КОМАНДА",
+    "LEVEL": "УРОВЕНЬ",
+    "AUDITOR": "АУДИТОР",
+    "Trainee": "Стажер",
+    "Junior": "Джуниор",
+    "Middle": "Средний",
+    "Senior": "Ведущий",
+    "Team Lead": "Начальник отдела"
+  },
+  "header": {
+    "title": "Обзор производительности"
+  },
+  "performanceStatistics": {
+    "day": "день",
+    "Mon": "Пн",
+    "Tue": "Вт",
+    "Wed": "Ср",
+    "Thu": "Чт",
+    "Fri": "Пт",
+    "Sat": "Сб",
+    "Sun": "Вс",
+    "Average Senior Auditor": "Средний ведущий аудитор",
+    "Average Middle Auditor": "Средний  аудитор",
+    "Average Junior Auditor": "Средний младший аудитор",
+    "Points": "Точек",
+    "Performance Statistics": "Статистика Производительности",
+    "Average levels": "Средние уровни",
+    "On": "Вкл",
+    "Off": "Выкл",
+    "Average": "Средний"
+  },
+  "teamActivitiesPercentage": {
+    "Title": "Проценты активностей команд"
+  },
+  "contentAuditor": {
+    "Title": "Аудитор"
+  },
+  "totalPointsr": {
+    "Total Points": "Всего баллов",
+    "Level position": "Занимаемое место",
+    "Seniority Premium": "Премиум за выслугу лет"
+  }
+}

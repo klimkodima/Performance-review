@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Matches snapshot 1`] = `
+<header
+  className="header"
+>
+  <div
+    className="header__wrapper"
+  >
+    <h2
+      className="dashboard-name"
+    >
+      title
+    </h2>
+    <div
+      className="header__logoIcon"
+    >
+      <img
+        alt="logo icon"
+        src="header-icon.png"
+      />
+    </div>
+    <div>
+      <button
+        className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium logoutIcon css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="logout icon"
+          src="logout-icon.png"
+        />
+      </button>
+    </div>
+  </div>
+</header>
+`;

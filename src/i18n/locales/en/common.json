@@ -1,0 +1,63 @@
+{
+  "activitiesPercentage": {
+    "Title": "Activities Percentage",
+    "Total time": "Total time"
+  },
+  "criteria": {
+    "Average Performance": "Average Performance",
+    "tasks/h": " tasks/h",
+    "task/h": " task/h",
+    "Support/Audits Hours": "Support/Audits Hours",
+    "h": "h",
+    "Average Validity": "Average Validity",
+    "Hours Correspondence": "Hours Correspondence",
+    "goodCorrespondenceText": "Your hours correspondence status is Good - 100% of hours are approved for the points calculations",
+    "normalCorrespondenceText": "Your hours correspondence status is Normal - 80% of hours are approved for the points calculations",
+    "badCorrespondenceText": "Your hours correspondence status is Normal - 80% of hours are approved for the points calculations"
+  },
+  "filter": {
+    "FILTERS": "FILTERS",
+    "CLEAR ALL": "CLEAR ALL",
+    "TEAM": "TEAM",
+    "LEVEL": "LEVEL",
+    "AUDITOR": "AUDITOR",
+    "Trainee": "Trainee",
+    "Junior": "Junior",
+    "Middle": "Middle",
+    "Senior": "Senior",
+    "Team Lead": "Team Lead"
+  },
+  "header": {
+    "title": "PERFORMANCE REVIEW"
+  },
+  "performanceStatistics": {
+    "day": "day",
+    "Mon": "Mon",
+    "Tue": "Tue",
+    "Wed": "Wed",
+    "Thu": "Thu",
+    "Fri": "Fri",
+    "Sat": "Sat",
+    "Sun": "Sun",
+    "Average Senior Auditor": "Average Senior Auditor",
+    "Average Middle Auditor": "Average Middle Auditor",
+    "Average Junior Auditor": "Average Junior Auditor",
+    "Points": " Points",
+    "Performance Statistics": "Performance Statistics",
+    "Average levels": "Average levels",
+    "On": "On",
+    "Off": "Off",
+    "Average": "Average"
+  },
+  "teamActivitiesPercentage": {
+    "Title": "Team Activities Percentage"
+  },
+  "contentAuditor": {
+    "Title": "Content Auditor"
+  },
+  "totalPoints": {
+    "Total Points": "Total Points",
+    "Level position": "Level position",
+    "Seniority Premium": "Seniority Premium"
+  }
+}
