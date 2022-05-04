@@ -11,6 +11,7 @@ import {
 } from './components/widgets';
 import { Header } from './components/header';
 import { Filter } from './components/filter';
+import { DateFilter } from './components/dateFilter';
 
 import './App.scss';
 
@@ -20,6 +21,7 @@ const App: FC = () => (
     <main className='dashboard'>
       <Filter />
       <Grid container className='widgets'>
+        <DateFilter />
         <ContentAuditorWidget />
         <PerformanceStatisticsAuditors />
         <PerformanceStatisticsTeamLead />

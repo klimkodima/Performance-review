@@ -2,124 +2,144 @@
 
 exports[`Criteria widget container tests Criteria widget snapshot 1`] = `
 <div
-  className="criteria-container"
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 criteria-container css-13i4rnv-MuiGrid-root"
   data-testid="criteria-container"
 >
   <div
-    className="criteria-item"
-    data-testid="criteria-item"
+    className="criteria-items-wrapper MuiBox-root css-0"
   >
-    <span
-      className="criteria-item-title"
-      data-testid="criteria-item-title"
-    >
-      Average Performance
-    </span>
-    <span
-      className="criteria-item-statistic"
-      data-testid="criteria-item-statistic"
-    >
-      5
-       tasks/h
-    </span>
-  </div>
-  <div
-    className="criteria-item"
-    data-testid="criteria-item"
-  >
-    <span
-      className="criteria-item-title"
-      data-testid="criteria-item-title"
-    >
-      Support/Audits Hours
-    </span>
-    <span
-      className="criteria-item-statistic"
-      data-testid="criteria-item-statistic"
-    >
-      162
-      h
-    </span>
-  </div>
-  <div
-    className="criteria-item"
-    data-testid="criteria-item"
-  >
-    <span
-      className="criteria-item-title"
-      data-testid="criteria-item-title"
-    >
-      Average Validity
-    </span>
-    <span
-      className="criteria-item-statistic"
-      data-testid="criteria-item-statistic"
-    >
-      96
-      %
-    </span>
-  </div>
-  <div
-    className="criteria-item"
-    data-testid="criteria-item"
-  >
-    <span
-      className="criteria-item-title"
-      data-testid="criteria-item-title"
-    >
-      Hours Correspondence
-    </span>
-    <span
-      className="criteria-item-statistic"
-      data-testid="criteria-item-statistic"
-    >
-      90
-      %
-    </span>
     <div
-      className="criteria-item-smile"
-      data-testid="criteria-item-smile"
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 criteria-item css-13i4rnv-MuiGrid-root"
+      data-testid="criteria-item"
     >
-      <svg
-        aria-hidden={true}
-        aria-label="goodCorrespondenceText"
-        aria-labelledby={null}
-        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1icur68-MuiSvgIcon-root"
-        data-mui-internal-clone-element={true}
-        data-testid="criteria-item-tooltip"
-        focusable="false"
-        onBlur={[Function]}
-        onFocus={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        onTouchEnd={[Function]}
-        onTouchStart={[Function]}
-        viewBox="0 0 24 24"
+      <div
+        className="criteria-item-wrapper MuiBox-root css-0"
       >
-        <circle
-          cx="15.5"
-          cy="9.5"
-          r="1.5"
-        />
-        <circle
-          cx="8.5"
-          cy="9.5"
-          r="1.5"
-        />
-        <circle
-          cx="15.5"
-          cy="9.5"
-          r="1.5"
-        />
-        <circle
-          cx="8.5"
-          cy="9.5"
-          r="1.5"
-        />
-        <path
-          d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-2.5c2.33 0 4.32-1.45 5.12-3.5h-1.67c-.69 1.19-1.97 2-3.45 2s-2.75-.81-3.45-2H6.88c.8 2.05 2.79 3.5 5.12 3.5z"
-        />
-      </svg>
+        <span
+          className="criteria-item-title"
+          data-testid="criteria-item-title"
+        >
+          Average Performance
+        </span>
+        <span
+          className="criteria-item-statistic"
+          data-testid="criteria-item-statistic"
+        >
+          1
+           task/h
+        </span>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 criteria-item css-13i4rnv-MuiGrid-root"
+      data-testid="criteria-item"
+    >
+      <div
+        className="criteria-item-wrapper MuiBox-root css-0"
+      >
+        <span
+          className="criteria-item-title"
+          data-testid="criteria-item-title"
+        >
+          Support/Audits Hours
+        </span>
+        <span
+          className="criteria-item-statistic"
+          data-testid="criteria-item-statistic"
+        >
+          162
+          h
+        </span>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 criteria-item css-13i4rnv-MuiGrid-root"
+      data-testid="criteria-item"
+    >
+      <div
+        className="criteria-item-wrapper MuiBox-root css-0"
+      >
+        <span
+          className="criteria-item-title"
+          data-testid="criteria-item-title"
+        >
+          Average Validity
+        </span>
+        <span
+          className="criteria-item-statistic"
+          data-testid="criteria-item-statistic"
+        >
+          96
+          %
+        </span>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 criteria-item css-13i4rnv-MuiGrid-root"
+      data-testid="criteria-item"
+    >
+      <div
+        className="criteria-item-wrapper MuiBox-root css-0"
+      >
+        <span
+          className="criteria-item-title"
+          data-testid="criteria-item-title"
+        >
+          Hours Correspondence
+        </span>
+        <span
+          className="criteria-item-statistic"
+          data-testid="criteria-item-statistic"
+        >
+          90
+          %
+        </span>
+        <div
+          className="criteria-item-smile"
+          data-testid="criteria-item-smile"
+        >
+          <svg
+            aria-hidden={true}
+            aria-label="goodCorrespondenceText"
+            aria-labelledby={null}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1icur68-MuiSvgIcon-root"
+            data-mui-internal-clone-element={true}
+            data-testid="criteria-item-tooltip"
+            focusable="false"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onMouseLeave={[Function]}
+            onMouseOver={[Function]}
+            onTouchEnd={[Function]}
+            onTouchStart={[Function]}
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="15.5"
+              cy="9.5"
+              r="1.5"
+            />
+            <circle
+              cx="8.5"
+              cy="9.5"
+              r="1.5"
+            />
+            <circle
+              cx="15.5"
+              cy="9.5"
+              r="1.5"
+            />
+            <circle
+              cx="8.5"
+              cy="9.5"
+              r="1.5"
+            />
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-2.5c2.33 0 4.32-1.45 5.12-3.5h-1.67c-.69 1.19-1.97 2-3.45 2s-2.75-.81-3.45-2H6.88c.8 2.05 2.79 3.5 5.12 3.5z"
+            />
+          </svg>
+        </div>
+      </div>
     </div>
   </div>
 </div>

@@ -1,4 +1,5 @@
 import createSagaMiddleware from 'redux-saga';
+import LogRocket from 'logrocket';
 import { configureStore } from '@reduxjs/toolkit';
 import {
   persistStore,
@@ -32,7 +33,7 @@ const store = configureStore({
       serializableCheck: {
         ignoredActions: [FLUSH, REHYDRATE, PAUSE, PERSIST, PURGE, REGISTER]
       }
-    }).concat(sagaMiddleware)
+    }).concat([sagaMiddleware, LogRocket.reduxMiddleware()])
 });
 
 sagaMiddleware.run(rootSaga);

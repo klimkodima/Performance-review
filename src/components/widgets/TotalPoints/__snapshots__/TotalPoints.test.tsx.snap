@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TotalPoints widget container tests TotalPoints widget snapshot 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-13i4rnv-MuiGrid-root"
+  data-testid="total-container"
+>
+  <div
+    className="total-points-container"
+  >
+    <div
+      className="total-points-item-wrapper"
+    >
+      <span
+        className="total-points-label"
+      >
+        Total Points
+      </span>
+      <span
+        className="total-points-value"
+      >
+        826
+      </span>
+    </div>
+    <div
+      className="total-points-item-wrapper"
+    >
+      <span
+        className="total-points-label"
+      >
+        Level position
+      </span>
+      <span
+        className="total-points-value"
+      >
+        2nd
+      </span>
+    </div>
+    <div
+      className="total-points-item-wrapper"
+    >
+      <span
+        className="total-points-label"
+      >
+        Seniority Premium
+      </span>
+      <span
+        className="total-points-value"
+      >
+        10
+        %
+      </span>
+    </div>
+  </div>
+</div>
+`;
