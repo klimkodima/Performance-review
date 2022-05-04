@@ -14,9 +14,8 @@ export const PIE_TITLE_TEXT = 'Activities Percentage';
 const colors = [
   '#F8D84F',
   '#94DC2E',
-  '#67E0E3',
   '#9F00BB',
-  '#FFDB5C',
+  '#67E0E3',
   '#ff9f7f',
   '#fb7293',
   '#E062AE',

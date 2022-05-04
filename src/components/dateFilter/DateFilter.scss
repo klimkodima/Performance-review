@@ -1,0 +1,83 @@
+.datefilter-container {
+  width: 100%;
+  display: flex;
+  padding: 20px 31px;
+  align-items: center;
+  justify-content: space-between;
+
+  &-header {
+    font-size: 26px;
+    color: #777777;
+    margin-left: 20px;
+  }
+
+  & .rmdp-input {
+    padding: 20px 10px;
+    padding-left: 30px;
+    color: #777777;
+    font-size: 18px;
+    background-color: #f6f6f6;
+    cursor: pointer;
+    transition: all 1s;
+
+    &:hover {
+      background-color: #c4d8f5;
+    }
+
+    &:focus {
+      border-color: #78e2e2;
+    }
+
+    & ~ svg {
+      right: 0 !important;
+      left: 5px !important;
+    }
+  }
+
+  & .buttons-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  & .button {
+    outline: none;
+    border: none;
+    display: block;
+    padding: 10px;
+    margin-bottom: 15px;
+    color: #0074d9;
+    text-transform: none;
+    transition: all 1s;
+    cursor: pointer;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &:hover {
+      border: none;
+    }
+  }
+}
+
+.rmdp-range.start {
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  background-color: #0074d9;
+}
+
+.rmdp-range.end {
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #0074d9;
+}
+
+.rmdp-range {
+  background-color: #34b7eb;
+}
+
+.rmdp-day.rmdp-today span {
+  background-color: #0074d9;
+  border-radius: 0%;
+}
