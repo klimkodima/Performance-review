@@ -6,13 +6,12 @@ import { TTotalPoints } from './types';
 
 import './TotalPoints.scss';
 
-const TotalPoints: FC = () => {
+type Props = {
+  data: TTotalPoints;
+};
+
+const TotalPoints: FC<Props> = ({ data }) => {
   const { t } = useTranslation('common', { keyPrefix: 'totalPoints' });
-  const data: TTotalPoints = {
-    totalPoints: 826,
-    level: 2,
-    premium: 10
-  };
   const formatLevel = (level: number): string => {
     switch (level) {
       case 1:

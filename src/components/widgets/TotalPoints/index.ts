@@ -1,1 +1,1 @@
-export { default as TotalPoints } from './TotalPoints';
+export { default as TotalPoints } from './TotalPointsContainer';
