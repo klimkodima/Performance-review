@@ -1,0 +1,2533 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AuditorsStatistics React-Redux Component Matches snapshot 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 audit-stats-container css-1ps6pg7-MuiPaper-root"
+>
+  <h2
+    className="table-title"
+  >
+    Auditors Statistics
+  </h2>
+  <div
+    className="MuiTableContainer-root css-1pbya23-MuiTableContainer-root"
+  >
+    <table
+      aria-label="Auditors Statistics"
+      className="MuiTable-root MuiTable-stickyHeader css-1nfbgt6-MuiTable-root"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+            scope="col"
+          >
+            <span>
+              AUDITOR
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+            scope="col"
+          >
+            <span>
+              TOTAL POINTS
+            </span>
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium sort-arrow css-i4bv87-MuiSvgIcon-root"
+              data-testid="ArrowDropUpIcon"
+              focusable="false"
+              onClick={[Function]}
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="m7 14 5-5 5 5z"
+              />
+            </svg>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+            scope="col"
+          >
+            <span>
+              AVERAGE PERFORMANCE
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+            scope="col"
+          >
+            <span>
+              AVERAGE VALIDITY
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+            scope="col"
+          >
+            <span>
+              SUPPORT/AUDITS HOURS
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+            scope="col"
+          >
+            <span>
+              HOURS CORRESPONDENCE
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Van Gan
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            845
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            1 task/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            80%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            125h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            74%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Elena Elenova
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            826
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            9 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            98%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            117h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            77%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Olya Klimko
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            825
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            7 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            95%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            146h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            79%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Ivan Sidorov
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            809
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            6 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            79%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            167h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            85%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Petr Petrov
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            802
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            6 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            90%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            152h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            81%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            ivan Elov
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            762
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            1 task/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            87%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            163h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            93%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Anna Ivanova
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            760
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            4 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            86%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            161h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            72%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            VasilyVan
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            745
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            9 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            75%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            155h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            81%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            inna Raut
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            739
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            5 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            82%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            161h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            77%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Petr Elena
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            678
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            1 task/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            85%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            134h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            73%
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          onClick={[Function]}
+          role={null}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            onClick={[Function]}
+          >
+            Manya Elenova
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            609
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            6 tasks/h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            34%
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            146h
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+          >
+            68%
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
+
+exports[`AuditorsStatistics widget table  tests Matches  sort item snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 audit-stats-container css-1ps6pg7-MuiPaper-root"
+  >
+    <h2
+      class="table-title"
+    >
+      Auditors Statistics
+    </h2>
+    <div
+      class="MuiTableContainer-root css-1pbya23-MuiTableContainer-root"
+    >
+      <table
+        aria-label="Auditors Statistics"
+        class="MuiTable-root MuiTable-stickyHeader css-1nfbgt6-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AUDITOR
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                TOTAL POINTS
+              </span>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium sort-arrow css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 10 5 5 5-5z"
+                />
+              </svg>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AVERAGE PERFORMANCE
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AVERAGE VALIDITY
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                SUPPORT/AUDITS HOURS
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                HOURS CORRESPONDENCE
+              </span>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Manya Elenova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              609
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              34%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              146h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              68%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Petr Elena
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              678
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              85%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              134h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              73%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              inna Raut
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              739
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              5 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              82%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              161h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              77%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              VasilyVan
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              745
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              9 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              75%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              155h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              81%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Anna Ivanova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              760
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              4 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              86%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              161h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              72%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              ivan Elov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              762
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              87%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              163h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              93%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Petr Petrov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              802
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              90%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              152h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              81%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Ivan Sidorov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              809
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              79%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              167h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              85%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Olya Klimko
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              825
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              7 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              95%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              146h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              79%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Elena Elenova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              826
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              9 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              98%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              117h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              77%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Van Gan
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              845
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              80%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              125h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              74%
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AuditorsStatistics widget table  tests Matches  sort item snapshot 2`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 audit-stats-container css-1ps6pg7-MuiPaper-root"
+  >
+    <h2
+      class="table-title"
+    >
+      Auditors Statistics
+    </h2>
+    <div
+      class="MuiTableContainer-root css-1pbya23-MuiTableContainer-root"
+    >
+      <table
+        aria-label="Auditors Statistics"
+        class="MuiTable-root MuiTable-stickyHeader css-1nfbgt6-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AUDITOR
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                TOTAL POINTS
+              </span>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium sort-arrow css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 10 5 5 5-5z"
+                />
+              </svg>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AVERAGE PERFORMANCE
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AVERAGE VALIDITY
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                SUPPORT/AUDITS HOURS
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                HOURS CORRESPONDENCE
+              </span>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Manya Elenova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              609
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              34%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              146h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              68%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Petr Elena
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              678
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              85%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              134h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              73%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              inna Raut
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              739
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              5 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              82%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              161h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              77%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              VasilyVan
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              745
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              9 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              75%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              155h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              81%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Anna Ivanova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              760
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              4 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              86%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              161h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              72%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              ivan Elov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              762
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              87%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              163h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              93%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Petr Petrov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              802
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              90%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              152h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              81%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Ivan Sidorov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              809
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              79%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              167h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              85%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Olya Klimko
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              825
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              7 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              95%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              146h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              79%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Elena Elenova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              826
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              9 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              98%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              117h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              77%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Van Gan
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              845
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              80%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              125h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              74%
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AuditorsStatistics widget table  tests Matches cell click 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 audit-stats-container css-1ps6pg7-MuiPaper-root"
+  >
+    <h2
+      class="table-title"
+    >
+      Auditors Statistics
+    </h2>
+    <div
+      class="MuiTableContainer-root css-1pbya23-MuiTableContainer-root"
+    >
+      <table
+        aria-label="Auditors Statistics"
+        class="MuiTable-root MuiTable-stickyHeader css-1nfbgt6-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AUDITOR
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                TOTAL POINTS
+              </span>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium sort-arrow css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropUpIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 14 5-5 5 5z"
+                />
+              </svg>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AVERAGE PERFORMANCE
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                AVERAGE VALIDITY
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                SUPPORT/AUDITS HOURS
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignCenter MuiTableCell-sizeMedium audit-stat-table-head-cell css-19xaem9-MuiTableCell-root"
+              scope="col"
+            >
+              <span>
+                HOURS CORRESPONDENCE
+              </span>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Van Gan
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              845
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              80%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              125h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              74%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Elena Elenova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              826
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              9 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              98%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              117h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              77%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root Mui-selected MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Olya Klimko
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              825
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              7 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              95%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              146h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              79%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Ivan Sidorov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              809
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              79%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              167h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              85%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Petr Petrov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              802
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              90%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              152h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              81%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              ivan Elov
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              762
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              87%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              163h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              93%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Anna Ivanova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              760
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              4 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              86%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              161h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              72%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              VasilyVan
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              745
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              9 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              75%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              155h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              81%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              inna Raut
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              739
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              5 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              82%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              161h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              77%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Petr Elena
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              678
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              1 task/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              85%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              134h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              73%
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              Manya Elenova
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              609
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              6 tasks/h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              34%
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              146h
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1yhpg23-MuiTableCell-root"
+            >
+              68%
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AuditorsStatistics widget table  tests Matches table max  row data snapshot 1`] = `
+<tr
+  className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+  onClick={[Function]}
+  role={null}
+>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+    onClick={[Function]}
+  >
+    Elena Elenova
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    845
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    9 tasks/h
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    98%
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    167h
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium max-value-color
+          
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    93%
+  </td>
+</tr>
+`;
+
+exports[`AuditorsStatistics widget table  tests Matches table min  row data snapshot 1`] = `
+<tr
+  className="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+  onClick={[Function]}
+  role={null}
+>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium auditor-cell audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+    onClick={[Function]}
+  >
+    Elena Elenova
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    609
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    1 task/h
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    34%
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    117h
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignCenter MuiTableCell-sizeMedium 
+          min-value-color
+          audit-stat-table-cell css-1ce3qcx-MuiTableCell-root"
+  >
+    68%
+  </td>
+</tr>
+`;

@@ -1,0 +1,50 @@
+.section-activities {
+  width: calc(100vw - 350px) !important;
+}
+
+.audit-stats-container {
+  border: 2px solid #d9d9d9;
+  border-radius: 8px;
+  margin-top: 30px;
+  width: 100%;
+}
+
+.table-title {
+  margin-left: 3%;
+  padding: 20px 0;
+}
+
+.auditor-cell {
+  font-weight: bold !important;
+  cursor: pointer;
+}
+
+.audit-stat-table-cell {
+  position: relative;
+  font-size: 1em !important;
+  color: #414141;
+  border-right: 1px solid #d9d9d9;
+}
+
+.audit-stat-table-head-cell {
+  position: relative;
+  color: #414141;
+  font-size: 0.8em;
+
+  border-right: 1px solid #d9d9d9;
+}
+
+.sort-arrow {
+  position: absolute;
+  z-index: 2;
+  right: 0px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.min-value-color {
+  color: #f54973 !important;
+}
+.max-value-color {
+  color: #4ac867 !important;
+}

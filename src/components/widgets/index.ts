@@ -1,6 +1,7 @@
 export { ActivitiesPercentage } from './ActivitiesPercentage';
 export { ContentAuditorWidget } from './ContentAuditorComponent';
 export { PerformanceStatisticContainer } from './PerformanceStatistics';
+export { AuditorsStatistics } from './AuditorsStatistics';
 export { TeamActivitiesPercentage } from './TeamActivitiesPercentage';
 export { PerformanceStatisticsTeamLead } from './PerformanceStatisticsHOC';
 export { PerformanceStatisticsAuditors } from './PerformanceStatisticsHOC';

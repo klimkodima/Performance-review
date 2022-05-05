@@ -7,7 +7,8 @@ import {
   TeamActivitiesPercentage,
   ActivitiesPercentage,
   TotalPoints,
-  ContentAuditorWidget
+  ContentAuditorWidget,
+  AuditorsStatistics
 } from './components/widgets';
 import { Header } from './components/header';
 import { Filter } from './components/filter';
@@ -29,6 +30,7 @@ const App: FC = () => (
         <CriteriaWidgets />
         <TotalPoints />
         <ActivitiesPercentage />
+        <AuditorsStatistics />
       </Grid>
     </main>
   </div>
