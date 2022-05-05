@@ -1,0 +1,4578 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateFilter Component Matches DateFilterComponent snapshots Matches DateFilterComponent click snapshot 1`] = `
+<div
+  class="rmdp-wrapper rmdp-shadow "
+  style="z-index: 100;"
+>
+  <div
+    class="rmdp-top-class "
+    style="display: flex;"
+  >
+    <div
+      class="MuiButtonGroup-root MuiButtonGroup-outlined buttons-container css-iajp3t-MuiButtonGroup-root"
+      data-testid="buttons-container"
+      role="group"
+    >
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 30 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 90 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 365 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="rmdp-calendar  rmdp-border-left"
+    >
+      <div
+        class="rmdp-header"
+      >
+        <div
+          style="position: relative; display: flex;"
+        >
+          <span
+            class="rmdp-arrow-container rmdp-left "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              April
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              May
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <span
+            class="rmdp-arrow-container rmdp-right "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+        </div>
+      </div>
+      <div
+        style="position: relative;"
+      >
+        <div
+          class="rmdp-day-picker "
+          style="display: flex;"
+        >
+          <div
+            style="margin-right: 10px;"
+          >
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range start"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  7
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  9
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  14
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  16
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  21
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  23
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  28
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  30
+                </span>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-today rmdp-range end"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  7
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  9
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  14
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  16
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  21
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  23
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  28
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  30
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  31
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-month-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                January
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                February
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                March
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                April
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today"
+            >
+              <span
+                class=""
+              >
+                May
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                June
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                July
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                August
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                September
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                October
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                November
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                December
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-year-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2018
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2019
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2020
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2021
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                2022
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2023
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2024
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2025
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2026
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2027
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2028
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2029
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DateFilter Component Matches DateFilterComponent snapshots Matches DateFilterComponent click snapshot 2`] = `
+<div
+  class="rmdp-wrapper rmdp-shadow "
+  style="z-index: 100;"
+>
+  <div
+    class="rmdp-top-class "
+    style="display: flex;"
+  >
+    <div
+      class="MuiButtonGroup-root MuiButtonGroup-outlined buttons-container css-iajp3t-MuiButtonGroup-root"
+      data-testid="buttons-container"
+      role="group"
+    >
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 30 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        >
+          <span
+            class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+            style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+          >
+            <span
+              class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+            />
+          </span>
+        </span>
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 90 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 365 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="rmdp-calendar  rmdp-border-left"
+    >
+      <div
+        class="rmdp-header"
+      >
+        <div
+          style="position: relative; display: flex;"
+        >
+          <span
+            class="rmdp-arrow-container rmdp-left "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              April
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              May
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <span
+            class="rmdp-arrow-container rmdp-right "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+        </div>
+      </div>
+      <div
+        style="position: relative;"
+      >
+        <div
+          class="rmdp-day-picker "
+          style="display: flex;"
+        >
+          <div
+            style="margin-right: 10px;"
+          >
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day "
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range start"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  7
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  9
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  14
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  16
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  21
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  23
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  28
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  30
+                </span>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-today rmdp-range end"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  7
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  9
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  14
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  16
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  21
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  23
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  28
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  30
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  31
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-month-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                January
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                February
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                March
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                April
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today"
+            >
+              <span
+                class=""
+              >
+                May
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                June
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                July
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                August
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                September
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                October
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                November
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                December
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-year-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2018
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2019
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2020
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2021
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                2022
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2023
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2024
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2025
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2026
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2027
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2028
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2029
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DateFilter Component Matches DateFilterComponent snapshots Matches DateFilterComponent click snapshot 3`] = `
+<div
+  class="rmdp-wrapper rmdp-shadow "
+  style="z-index: 100;"
+>
+  <div
+    class="rmdp-top-class "
+    style="display: flex;"
+  >
+    <div
+      class="MuiButtonGroup-root MuiButtonGroup-outlined buttons-container css-iajp3t-MuiButtonGroup-root"
+      data-testid="buttons-container"
+      role="group"
+    >
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 30 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 90 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        >
+          <span
+            class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+            style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+          >
+            <span
+              class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+            />
+          </span>
+        </span>
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 365 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="rmdp-calendar  rmdp-border-left"
+    >
+      <div
+        class="rmdp-header"
+      >
+        <div
+          style="position: relative; display: flex;"
+        >
+          <span
+            class="rmdp-arrow-container rmdp-left "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              April
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              May
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <span
+            class="rmdp-arrow-container rmdp-right "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+        </div>
+      </div>
+      <div
+        style="position: relative;"
+      >
+        <div
+          class="rmdp-day-picker "
+          style="display: flex;"
+        >
+          <div
+            style="margin-right: 10px;"
+          >
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  7
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  9
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  14
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  16
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  21
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  23
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  28
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  30
+                </span>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-today rmdp-range end"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  7
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  9
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  14
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  16
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  21
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  23
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  28
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  30
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  31
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-month-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                January
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                February
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                March
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                April
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today"
+            >
+              <span
+                class=""
+              >
+                May
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                June
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                July
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                August
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                September
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                October
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                November
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                December
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-year-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2018
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2019
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2020
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2021
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                2022
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2023
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2024
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2025
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2026
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2027
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2028
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2029
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DateFilter Component Matches DateFilterComponent snapshots Matches DateFilterComponent click snapshot 4`] = `
+<div
+  class="rmdp-wrapper rmdp-shadow "
+  style="z-index: 100;"
+>
+  <div
+    class="rmdp-top-class "
+    style="display: flex;"
+  >
+    <div
+      class="MuiButtonGroup-root MuiButtonGroup-outlined buttons-container css-iajp3t-MuiButtonGroup-root"
+      data-testid="buttons-container"
+      role="group"
+    >
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 30 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 90 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root button MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        last 365 days
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        >
+          <span
+            class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+            style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+          >
+            <span
+              class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+            />
+          </span>
+        </span>
+      </button>
+    </div>
+    <div
+      class="rmdp-calendar  rmdp-border-left"
+    >
+      <div
+        class="rmdp-header"
+      >
+        <div
+          style="position: relative; display: flex;"
+        >
+          <span
+            class="rmdp-arrow-container rmdp-left "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              April
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <div
+            class="rmdp-header-values"
+          >
+            <span
+              style="cursor: pointer;"
+            >
+              May
+              ,
+            </span>
+            <span
+              style="cursor: pointer;"
+            >
+              2022
+            </span>
+          </div>
+          <span
+            class="rmdp-arrow-container rmdp-right "
+          >
+            <i
+              class="rmdp-arrow"
+            />
+          </span>
+        </div>
+      </div>
+      <div
+        style="position: relative;"
+      >
+        <div
+          class="rmdp-day-picker "
+          style="display: flex;"
+        >
+          <div
+            style="margin-right: 10px;"
+          >
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  7
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  9
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  14
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  16
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  21
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  23
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  28
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  30
+                </span>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-week-day"
+              >
+                Sun
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Mon
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Tue
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Wed
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Thu
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Fri
+              </div>
+              <div
+                class="rmdp-week-day"
+              >
+                Sat
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  1
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  2
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  3
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-range"
+              >
+                <span
+                  class="sd "
+                >
+                  4
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-today rmdp-range end"
+              >
+                <span
+                  class="sd "
+                >
+                  5
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  6
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  7
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  8
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  9
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  10
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  11
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  12
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  13
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  14
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  15
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  16
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  17
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  18
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  19
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  20
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  21
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  22
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  23
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  24
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  25
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  26
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  27
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  28
+                </span>
+              </div>
+            </div>
+            <div
+              class="rmdp-week"
+            >
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  29
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  30
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-disabled"
+              >
+                <span
+                  class=" "
+                >
+                  31
+                </span>
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+              <div
+                class="rmdp-day rmdp-day-hidden"
+              >
+                <span
+                  class=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-month-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                January
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                February
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                March
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                April
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today"
+            >
+              <span
+                class=""
+              >
+                May
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                June
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                July
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                August
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                September
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                October
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                November
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                December
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="rmdp-year-picker"
+          style="display: none;"
+        >
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2018
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2019
+              </span>
+            </div>
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2020
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day"
+            >
+              <span
+                class=""
+              >
+                2021
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-today rmdp-selected"
+            >
+              <span
+                class=""
+              >
+                2022
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2023
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2024
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2025
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2026
+              </span>
+            </div>
+          </div>
+          <div
+            class="rmdp-ym"
+          >
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2027
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2028
+              </span>
+            </div>
+            <div
+              class="rmdp-day rmdp-disabled"
+            >
+              <span
+                class=""
+              >
+                2029
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DateFilter Component Matches DateFilterContainer snapshots Matches snapshot 1`] = `
+<div
+  className="datefilter-container"
+>
+  <h3
+    className="datefilter-container-header"
+  >
+    Auditor's Level
+  </h3>
+  <div
+    className="rmdp-container "
+    style={
+      Object {
+        "display": "inline-block",
+        "height": "max-content",
+      }
+    }
+  >
+    <div>
+      <div
+        style={
+          Object {
+            "position": "relative",
+          }
+        }
+      >
+        <input
+          autoComplete="off"
+          className="rmdp-input"
+          onChange={[Function]}
+          onFocus={[Function]}
+          type="text"
+          value={
+            Array [
+              "",
+            ]
+          }
+        />
+        <svg
+          className="icon icon-tabler icon-tabler-calendar-event"
+          fill="none"
+          height={20}
+          onClick={[Function]}
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth={1.5}
+          style={
+            Object {
+              "backgroundColor": "inherit",
+              "cursor": "pointer",
+              "position": "absolute",
+              "right": "2.5px",
+              "top": "50%",
+              "transform": "translateY(-50%)",
+            }
+          }
+          viewBox="0 0 24 24"
+          width={20}
+        >
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+            stroke="none"
+          />
+          <rect
+            height={16}
+            rx={2}
+            width={16}
+            x={4}
+            y={5}
+          />
+          <line
+            x1={16}
+            x2={16}
+            y1={3}
+            y2={7}
+          />
+          <line
+            x1={8}
+            x2={8}
+            y1={3}
+            y2={7}
+          />
+          <line
+            x1={4}
+            x2={20}
+            y1={11}
+            y2={11}
+          />
+          <rect
+            height={2}
+            width={2}
+            x={8}
+            y={15}
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className=""
+      style={
+        Object {
+          "left": "0",
+          "position": "absolute",
+          "top": "0",
+          "visibility": "hidden",
+          "willChange": "transform",
+          "zIndex": 100,
+        }
+      }
+    >
+      <div />
+    </div>
+  </div>
+</div>
+`;

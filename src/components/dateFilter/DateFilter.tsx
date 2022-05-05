@@ -25,6 +25,7 @@ const DateFilterComponent: FC = () => {
 
   return (
     <DatePicker
+      data-testId='date-picker'
       render={<InputIcon />}
       value={value}
       onChange={setValue}
