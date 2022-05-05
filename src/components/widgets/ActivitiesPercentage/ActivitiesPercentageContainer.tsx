@@ -93,7 +93,7 @@ const ActivitiesPercentageContainer = (): ReactElement | null => {
 
   return (
     <Grid item xs={12} md={12} lg={12}>
-      <ActivitiesPercentage pieData={option} cardData={cardData} />;
+      <ActivitiesPercentage pieData={option} cardData={cardData} />
     </Grid>
   );
 };
